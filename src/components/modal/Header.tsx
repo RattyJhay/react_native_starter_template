@@ -1,5 +1,5 @@
 // components/modal/Header.tsx
-import React from "react";
+
 import { View, Text, Pressable } from "react-native";
 import { X } from "lucide-react-native";
 import * as Haptics from "expo-haptics";

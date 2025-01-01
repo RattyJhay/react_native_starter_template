@@ -1,5 +1,5 @@
 // screens/ModalScreen.tsx
-import React from "react";
+
 import { View, Text, ScrollView, Platform } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import { router } from "expo-router";

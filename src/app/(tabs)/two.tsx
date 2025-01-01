@@ -1,4 +1,3 @@
-import React from "react";
 import { ScrollView, Text, View } from "react-native";
 import { BarChart3, Album, Calendar } from "lucide-react-native";
 import { HeroSection } from "~/components/analytics/HeroSection";

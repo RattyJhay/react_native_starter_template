@@ -1,5 +1,5 @@
 // components/analytics/HeroSection.tsx
-import React from "react";
+
 import { View, Text } from "react-native";
 import { Activity } from "lucide-react-native";
 import { useAppTheme } from "~/context/ThemeContext";

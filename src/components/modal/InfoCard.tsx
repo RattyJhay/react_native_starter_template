@@ -1,5 +1,5 @@
 // components/modal/InfoCard.tsx
-import React from "react";
+
 import { View, Text } from "react-native";
 import { useAppTheme } from "~/context/ThemeContext";
 import { createThemedStyleSheet } from "~/utils/styleSheet";
